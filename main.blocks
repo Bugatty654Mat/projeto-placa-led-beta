@@ -1,0 +1,31 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id="6,vESD@|UKC~oh5FlB*0" x="0" y="0"><statement name="HANDLER"><block type="device_show_number" id="w3zrr8UktWMH:n%HKnGq"><value name="number"><shadow type="math_number" id="`ST|9+cW0kyTaH)0qQ3t"><field name="NUM">1</field></shadow></value><next><block type="device_show_number" id="~~L[k*:x[3.Epm|DsI@u"><value name="number"><shadow type="math_number" id=".1%p?Ldici{GYcJWp?]5"><field name="NUM">2</field></shadow></value><next><block type="device_show_number" id="5M@}|e$x|yRGnKB+BP%N"><value name="number"><shadow type="math_number" id="KqigRAzFf]6)RDTwPF8r"><field name="NUM">3</field></shadow></value><next><block type="device_show_leds" id="Df==ghYMi~~?G4A[Fpw)"><field name="LEDS">`
+        . # . # . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="Dz{cRk:I@cbRiS^[2l6x"><field name="LEDS">`
+        . # . # . 
+        # # # # # 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="87YMC@]x#xG0jM$qsx$t"><field name="LEDS">`
+        . # . # . 
+        # # # # # 
+        # # # # # 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="29uu~W_=C-kscryHMK!1"><field name="LEDS">`
+        . # . # . 
+        # # # # # 
+        # # # # # 
+        . # # # . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="zjnJKik-a7]fe-aC*g4v"><field name="LEDS">`
+        . # . # . 
+        # # # # # 
+        # # # # # 
+        . # # # . 
+        . . # . .
+        `</field><next><block type="device_pause" id="4*54}hAmV#[M=-R_K8_B"><value name="pause"><shadow type="timePicker" id="|Kh=Ya=1~)vJH6U6+gR0"><field name="ms">2500</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
